@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Pandit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer & Designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeadityap&label=Profile%20views&color=0e75b6&style=flat" alt="codeadityap" /> </p>
 
-- 🌱 I’m currently learning **Html, CSS, JavaScript, C++**
+- 🌱 I’m currently learning **ReactJs, Data Structures Algorithm, Java Full Stack**
 
 - 📫 How to reach me **panditaditya855@gmail.com**
 
