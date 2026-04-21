@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeadityap&label=Profile%20views&color=0e75b6&style=flat" alt="codeadityap" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, Data Structures Algorithm, Java Full Stack**
+- 🌱 I’m currently learning **ReactJs, Data Structures Algorithm, Full Stack Java Development**
 
 - 📫 How to reach me **panditaditya855@gmail.com**
 
